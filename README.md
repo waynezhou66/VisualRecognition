@@ -9,6 +9,8 @@
 ## Requirements
 
 ## Notes
+1. AI.210 Presentation material 
+2. AI.210 Manuscript
 
 ## Copyright
 See [LICENSE](LICENSE) for details.
